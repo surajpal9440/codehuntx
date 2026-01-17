@@ -1,0 +1,9 @@
+/*
+!/day9 backend/
+!/day13 frontend/
+!/README.md
+!/.gitignore
+
+# Exclude dependencies and secrets
+node_modules/
+.env
